@@ -1,0 +1,2 @@
+python ╫Ьппя╖о╟╡Бйт
+print('hello word')
